@@ -43,6 +43,21 @@ content:
         - name: Vant 4
           description: 轻量、可定制的移动端 Vue 组件库
           url: https://vant-contrib.gitee.io/vant/#/zh-CN/home
+        - name: NutUI
+          description: 京东风格的轻量级移动端组件库
+          url: https://nutui.jd.com/#/
+        - name: uView-plus 
+          description: uview-plus，是全面兼容nvue的uni-app生态框架
+          url: https://uiadmin.net/uview-plus/
+        - name: TuniaoUI v2
+          description: 图鸟UI，是基于uni-app进行开发的UI框架
+          url: https://vue2.tuniaokj.com/
+        - name: TuniaoUI v3
+          description: TuniaoUI 组件库 Vue3 Typescript Uniapp版本
+          url: https://vue3.tuniaokj.com/zh-CN/
+        - name: ELementUI
+          description: Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库
+          url: https://element.eleme.io/#/zh-CN
     - name: 常用推荐
       sites:
         - name: Dribbble
