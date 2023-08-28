@@ -38,6 +38,11 @@ webstack:
 
 content:
   categories:
+    - name: UI库
+      sites:
+        - name: Vant 4
+          description: 轻量、可定制的移动端 Vue 组件库
+          url: https://vant-contrib.gitee.io/vant/#/zh-CN/home
     - name: 常用推荐
       sites:
         - name: Dribbble
