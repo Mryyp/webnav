@@ -14,7 +14,7 @@ url: https://mryyp.github.io/webnav/
 github: "https://github.com/mryyp"
 
 # footer message
-footer: © 2021-2021 @mryyp
+footer: © 2023-2099 @mryyp
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -46,6 +46,9 @@ content:
         - name: V2EX
           description: v2ex
           url: https://www.v2ex.com/
+        - name: Discord
+          description: Discord
+          url: https://discord.com/servers
     - name: Mac软件
       sites:
         - name: wallhaven壁纸
@@ -238,21 +241,12 @@ content:
           url: https://www.flaticon.com/
     - name: 字体资源
       sites:
+        - name: 字体天下
+          description: 字体天下
+          url: https://www.fonts.net.cn/
         - name: Google Font
           description: Making the web more beautiful, fast, and open through great typography
           url: https://fonts.google.com/
-        - name: Urban Fonts
-          description: Download Free Fonts and Free Dingbats.
-          url: https://www.urbanfonts.com/
-        - name: FONTS2U
-          description: Download free fonts for Windows and Macintosh.
-          url: https://fonts2u.com/
-        - name: Da Font
-          description: Archive of freely downloadable fonts.
-          url: https://www.dafont.com/
-        - name: OnlineWebFonts
-          description: WEB Free Fonts for Windows and Mac / Font free Download
-          url: https://www.onlinewebfonts.com/
         - name: Abstract Fonts
           description: Abstract Fonts (13,866 free fonts)
           url: http://www.abstractfonts.com/
@@ -299,4 +293,7 @@ content:
         - name: 小众软件
           description: 在这里发现更多有趣的应用
           url: https://faxian.appinn.com/
+        - name: 中文业界资讯站
+          description: 中文业界资讯站
+          url: https://www.cnbeta.com.tw/
 
