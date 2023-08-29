@@ -63,6 +63,17 @@ content:
         - name: 奇迹秀
           description: 奇迹秀
           url: https://www.qijishow.com/
+    - name: 开发平台
+      sites:
+        - name: 微信公众平台
+          description: 微信公众平台
+          url: https://mp.weixin.qq.com/
+        - name: 支付宝开放平台
+          description: 支付宝开放平台
+          url: https://open.alipay.com/
+        - name: Uni-app
+          description: Uni-app
+          url: https://uniapp.dcloud.net.cn/
     - name: UI库
       sites:
         - name: Vant 4
@@ -167,53 +178,30 @@ content:
           url: https://www.iole.tv/
     - name: 常用推荐
       sites:
+        - name: tinypng
+          description: Optimize your images with a perfect balance in quality and file size.
+          url: https://tinypng.com/
+        - name: PDF转换
+          description: PDF转WORD 以及更多免费的在线格式转换工具
+          url: https://www.alltoall.net/
+        - name: 去除背景
+          description: 上传一张图片以消除背景
+          url: https://www.remove.bg/zh/upload
+        - name: Api
+          description: 免费Api
+          url: http://txapi.cn/api
+        - name: 量化文档
+          description: 量化文档
+          url: https://akshare.akfamily.xyz/platform.html#id1
+        - name: musclewiki
+          description: 健身网站
+          url: https://musclewiki.com/
         - name: Dribbble
           description: 全球UI设计师作品分享平台。
           url: https://dribbble.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
         - name: Youtube
           description: 全球最大的学习分享平台
           url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
-    - name: 界面灵感
-      sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
     - name: 社区资讯
       sites:
         - name: 雷锋网
@@ -345,38 +333,6 @@ content:
         - name: freepik
           description: More than a million free vectors, PSD, photos and free icons.
           url: https://www.freepik.com/
-    - name: UI资源
-      sites:
-        - name: Freebiesbug
-          description: Hand-picked resources for web designer and developers, constantly updated.
-          url: https://freebiesbug.com/
-        - name: Freebie Supply
-          description: Free Resources For Designers
-          url: https://freebiesupply.com/
-        - name: 云瑞
-          description: 优秀设计资源的分享网站
-          url: https://www.yrucd.com/
-        - name: 稀土区
-          description: 优质设计开发资源分享
-          url: https://xituqu.com/
-        - name: ui8
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-          url: https://ui8.net/
-        - name: uplabs
-          description: Daily resources for product designers & developers
-          url: https://www.uplabs.com/
-        - name: UIkit.me
-          description: 最便捷新鲜的uikit资源下载网站
-          url: http://www.uikit.me/
-        - name: Fribbble
-          description: Free PSD files and other free design resources by Dribbblers.
-          url: http://www.fribbble.com/
-        - name: PrincipleRepo
-          description: Free, High Quality Principle Resources
-          url: http://principlerepo.com/
-        - name: Designmodo
-          description: Web Design Blog and Shop
-          url: https://designmodo.com/
     - name: 字体资源
       sites:
         - name: Google Font
@@ -515,40 +471,6 @@ content:
         - name: 5百丁
           description: 中国领先的PPT模板共享平台
           url: http://ppt.500d.me/
-    - name: 界面设计
-      sites:
-        - name: Adobe XD
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-          url: http://www.adobe.com/products/xd.html
-        - name: invisionapp
-          description: Powerful design prototyping tools
-          url: https://www.invisionapp.com/
-        - name: marvelapp
-          description: Simple design, prototyping and collaboration
-          url: https://marvelapp.com/
-        - name: Muse CC
-          description: 无需利用编码即可进行网站设计。
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-        - name: figma
-          description: Design, prototype, and gather feedback all in one place with Figma.
-          url: https://www.figma.com/
-    - name: 交互动效
-      sites:
-        - name: Adobe After Effects CC
-          description: 电影般的视觉效果和动态图形。
-          url: https://www.adobe.com/cn/products/aftereffects/
-        - name: principle
-          description: Animate Your Ideas, Design Better Apps
-          url: http://principleformac.com/
-        - name: flinto
-          description: Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
-          url: https://www.flinto.com/
-        - name: framer
-          description: Design everything from detailed icons to high-fidelity interactions—all in one place.
-          url: https://framer.com/
-        - name: ProtoPie
-          description: 高保真交互原型设计
-          url: http://www.protopie.cn/
     - name: 在线配色
       sites:
         - name: khroma
@@ -596,49 +518,6 @@ content:
         - name: vanschneider
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
           url: http://www.vanschneider.com/colors
-    - name: 在线工具
-      sites:
-        - name: tinypng
-          description: Optimize your images with a perfect balance in quality and file size.
-          url: https://tinypng.com/
-        - name: goqr
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-          url: http://goqr.me/
-        - name: ezgif
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-          url: https://ezgif.com
-        - name: Android 9 patch
-          description: Android 9-patch shadow generator fully customizable shadows
-          url: http://inloop.github.io/shadow4android/
-        - name: screen sizes
-          description: Viewport Sizes and Pixel Densities for Popular Devices
-          url: http://screensiz.es/
-        - name: svgomg
-          description: SVG在线压缩平台
-          url: https://jakearchibald.github.io/svgomg/
-        - name: 稿定抠图
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
-          url: https://www.gaoding.com
-    - name: 交互设计
-      sites:
-        - name: Little Big Details
-          description: Little Big Details is a curated collection of the finer details of design, updated every day.
-          url: http://littlebigdetails.com/
-        - name: Smashing Magazine
-          description: Below you’ll find the best tips to take not only your UX design process but also the experiences you craft to the next level.
-          url: https://www.smashingmagazine.com/category/user-experience
-        - name: nngroup
-          description: Evidence-Based User Experience Research, Training, and Consulting
-          url: https://www.nngroup.com/articles/
-        - name: Boxes and Arrows
-          description: Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business.
-          url: http://boxesandarrows.com/
-        - name: UX Design Weekly
-          description: get a hand picked list of the best user experience design links every week.
-          url: http://uxdesignweekly.com/
-        - name: UX Ren
-          description: 用户体验人的专业社区
-          url: http://uxren.cn/
     - name: UED团队
       sites:
         - name: Airbnb Design
