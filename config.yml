@@ -126,21 +126,9 @@ content:
         - name: The FWA
           description: FWA - showcasing innovation every day since 2000
           url: https://thefwa.com/
-        - name: Reeoo
-          description: web design inspiration and website gallery
-          url: http://reeoo.com/
         - name: Designmunk
           description: Best Homepage Design Inspiration
           url: https://designmunk.com/
-        - name: Best Websites Gallery
-          description: Website Showcase Inspiration | Best Websites Gallery
-          url: https://bestwebsite.gallery/
-        - name: SiteSee
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-          url: https://sitesee.co/
-        - name: Site Inspire
-          description: A CSS gallery and showcase of the best web design inspiration.
-          url: https://www.siteinspire.com/
     - name: Chat-gpt 
       sites:
         - name: Gpt-1
