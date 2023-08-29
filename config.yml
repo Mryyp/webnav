@@ -1,5 +1,5 @@
 # title of website
-title: webnav
+title: 导航
 
 # description of website
 description: mryyp's navigation site
@@ -61,6 +61,17 @@ content:
         - name: TMUI3.0
           description: 优质Vue3 TS Pinia Vite跨端组件库
           url: https://tmui.design/
+    - name: 特效网站
+      sites:
+        - name: Zero
+          description: Zero
+          url: https://zero.tech/
+        - name: Species-in-pieces
+          description: species
+          url: http://www.species-in-pieces.com/#
+        - name: 综合地址
+          description: tympanus
+          url: https://tympanus.net/codrops/
     - name: Chat-gpt 
       sites:
         - name: Gpt-1
@@ -69,6 +80,28 @@ content:
         - name: MinisTer Ai
           description: 一键点击云模型，立即创造出惊艳的AI艺术作品！
           url: https://mst.ai/home
+    - name: Vpn
+      sites:
+        - name: 魔戒
+          description: 国内地址 mojie.ac 按量订阅
+          url: https://mojie.cyou/#/dashboard
+        - name: eevpn
+          description: 按月订阅
+          url: https://www.eevpn.com/#/login
+        - name: sockboom
+          description: 按量订阅-按月订阅
+          url: https://sockboom.link/user
+    - name: 影视网站
+      sites:
+        - name: 腾讯视频
+          description: 腾讯视频
+          url: https://v.qq.com/
+        - name: 爱奇艺
+          description: 爱奇艺
+          url: https://www.iqiyi.com/
+        - name: 海兔影院
+          description: 海兔影院
+          url: https://www.haitu.tv/
     - name: 常用推荐
       sites:
         - name: Dribbble
