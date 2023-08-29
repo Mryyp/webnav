@@ -5,7 +5,7 @@ title: 导航
 description: mryyp's navigation site
 
 # favicon of website
-favicon: "https://github.com/mryyp.png?size=40"
+favicon: "./fix.png?size=40"
 
 # your website url
 url: https://mryyp.github.io/webnav/
