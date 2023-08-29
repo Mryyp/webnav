@@ -38,6 +38,23 @@ webstack:
 
 content:
   categories:
+    - name: Mac软件
+      sites:
+        - name: wallhaven壁纸
+          description: wallhaven壁纸
+          url: https://wallhaven.cc/
+        - name: appstorrent
+          description: appstorrent
+          url: https://appstorrent.ru/programs/
+        - name: Macapp 分享频道
+          description: Macapp 分享频道
+          url: https://macapp.org.cn/
+        - name: 马可波罗
+          description: 马可波罗
+          url: https://www.macbl.com/
+        - name: 奇迹秀
+          description: 奇迹秀
+          url: https://www.qijishow.com/
     - name: UI库
       sites:
         - name: Vant 4
@@ -91,6 +108,17 @@ content:
         - name: sockboom
           description: 按量订阅-按月订阅
           url: https://sockboom.link/user
+    - name: idea
+      sites:
+        - name: idea激活码-注册码
+          description: intellij idea注册码,idea激活码,idea破解,idea破解插件,idea注册码在线生成
+          url: http://idea.javatiku.cn/
+        - name: idea-jetbrains
+          description: idea 编辑器
+          url: https://www.jetbrains.com/
+        - name: VsCode
+          description: VsCode
+          url: https://code.visualstudio.com/
     - name: 影视网站
       sites:
         - name: 腾讯视频
@@ -102,6 +130,9 @@ content:
         - name: 海兔影院
           description: 海兔影院
           url: https://www.haitu.tv/
+        - name: 爱欧乐影院
+          description: 爱欧乐影院
+          url: https://www.iole.tv/
     - name: 常用推荐
       sites:
         - name: Dribbble
