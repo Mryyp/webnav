@@ -38,6 +38,14 @@ webstack:
 
 content:
   categories:
+    - name: 交流地址
+      sites:
+        - name: 掘金
+          description: 开发者社区
+          url: https://juejin.cn/
+        - name: V2EX
+          description: v2ex
+          url: https://www.v2ex.com/
     - name: Mac软件
       sites:
         - name: wallhaven壁纸
