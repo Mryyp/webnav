@@ -421,35 +421,6 @@ content:
         - name: Designmodo
           description: Web Design Blog and Shop
           url: https://designmodo.com/
-    - name: Sketch资源
-      sites:
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
-        - name: Sketch Measure
-          description: Friendly user interface offers you a more intuitive way of making marks.
-          url: http://utom.design/measure/
-        - name: Sketch App Sources
-          description: Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
-          url: https://www.sketchappsources.com/
-        - name: Sketch.im
-          description: Sketch 相关资源汇聚
-          url: http://www.sketch.im/
-        - name: Sketch Hunt
-          description: Sketch Hunt is an independent blog sharing gems in learning, plugins & design tools for fans of Sketch app.
-          url: http://sketchhunt.com/
-        - name: Sketch中文网
-          description: 分享最新的Sketch中文手册
-          url: http://www.sketchcn.com/
-        - name: Awesome Sketch Plugins
-          description: A collection of really useful Sketch plugins.
-          url: https://awesome-sket.ch/
-        - name: Sketchcasts
-          description: Learn Sketch Train your design skills with a weekly video tutorial
-          url: https://www.sketchcasts.net/
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
     - name: 字体资源
       sites:
         - name: Google Font
@@ -494,32 +465,6 @@ content:
         - name: Abstract Fonts
           description: Abstract Fonts (13,866 free fonts)
           url: http://www.abstractfonts.com/
-    - name: Mockup
-      sites:
-        - name: MockupZone
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
-          url: https://mockup.zone/
-        - name: Dunnnk
-          description: Generate Product Mockups For Free
-          url: http://dunnnk.com/
-        - name: Graphberry
-          description: Free design resources, Mockups, PSD web templates, Icons
-          url: http://www.graphberry.com/
-        - name: Threed
-          description: Generate 3D Mockups right in your Browser
-          url: http://threed.io/
-        - name: Mockup World
-          description: The best free Mockups from the Web
-          url: https://free.lstore.graphics/
-        - name: Lstore
-          description: Exclusive mindblowing freebies for designers and developers
-          url: https://free.lstore.graphics/
-        - name: pixeden
-          description: free web resources and graphic design templates.
-          url: https://www.pixeden.com/
-        - name: For Graphic TM
-          description: High Quality PSD Mockups for Graphic Designers.
-          url: http://forgraphictm.com/
     - name: 摄影图库
       sites:
         - name: Unsplash
@@ -614,29 +559,6 @@ content:
         - name: 5百丁
           description: 中国领先的PPT模板共享平台
           url: http://ppt.500d.me/
-    - name: 图形创意
-      sites:
-        - name: photoshop
-          description: Photoshop不需要解释
-          url: https://www.adobe.com/cn/products/photoshop.html
-        - name: Affinity Designer
-          description: 专业创意软件
-          url: https://affinity.serif.com/
-        - name: Illustrator
-          description: 矢量图形和插图。
-          url: https://www.adobe.com/cn/products/illustrator/
-        - name: indesign
-          description: 页面设计、布局和出版。
-          url: http://www.adobe.com/cn/products/indesign.html
-        - name: cinema-4d
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-        - name: 3ds-max
-          description: 3D modeling, animation, and rendering software
-          url: https://www.autodesk.com/products/3ds-max/overview
-        - name: Blender
-          description: Blender is the free and open source 3D creation suite.
-          url: https://www.blender.org/
     - name: 界面设计
       sites:
         - name: Adobe XD
@@ -741,53 +663,6 @@ content:
         - name: 稿定抠图
           description: 免费在线抠图软件,图片快速换背景-抠白底图
           url: https://www.gaoding.com
-    - name: 设计规范
-      sites:
-        - name: Design Guidelines
-          description: Design Guidelines — The way products are built.
-          url: http://designguidelines.co/
-        - name: Awesome design systems
-          description: A collection of awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-        - name: Material Design
-          description: Introduction - Material Design
-          url: https://material.io/guidelines/
-        - name: Human Interface Guidelines
-          description: Human Interface Guidelines iOS
-          url: https://developer.apple.com/ios/human-interface-guidelines
-        - name: Photoshop Etiquette
-          description: PS礼仪-WEB设计指南
-          url: http://viggoz.com/photoshopetiquette/
-    - name: 视频教程
-      sites:
-        - name: Photoshop Lady
-          description: Your Favourite Photoshop Tutorials in One Place
-          url: http://www.photoshoplady.com/
-        - name: doyoudo
-          description: 创意设计软件学习平台
-          url: http://doyoudo.com/
-        - name: 没位道
-          description: WEB UI免费视频公开课
-          url: http://www.c945.com/web-ui-tutorial/
-        - name: 慕课网
-          description: 程序员的梦工厂（有UI课程）
-          url: https://www.imooc.com/
-    - name: 设计文章
-      sites:
-        - name: Web Design Ledger
-          description: Web Design Blog
-          url: https://webdesignledger.com
-    - name: 设计电台
-      sites:
-        - name: UX Coffee
-          description: 《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。
-          url: http://uxcoffee.co/
-        - name: Anyway.FM
-          description: 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客
-          url: https://anyway.fm/
-        - name: 异能电台
-          description: 将全宇宙设计师的故事讲给你听。
-          url: https://www.yineng.fm
     - name: 交互设计
       sites:
         - name: Little Big Details
