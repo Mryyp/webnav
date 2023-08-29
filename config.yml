@@ -49,6 +49,9 @@ content:
         - name: Discord
           description: Discord
           url: https://discord.com/servers
+        - name: 炒饭社区
+          description: 炒饭社区论坛
+          url: https://choa.fun/all
     - name: Mac软件
       sites:
         - name: wallhaven壁纸
