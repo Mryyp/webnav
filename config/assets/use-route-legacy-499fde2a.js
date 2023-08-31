@@ -1,0 +1,1 @@
+System.register(["./index-legacy-a99c9020.js"],(function(e,r){"use strict";var t;return{setters:[e=>{t=e.aD}],execute:function(){e("u",(function(){const e=t().proxy;return()=>function({to:e,url:r,replace:t,$router:n}){e&&n?n[t?"replace":"push"](e):r&&(t?location.replace(r):location.href=r)}(e)})),e("r",{to:[String,Object],url:String,replace:Boolean})}}}));
