@@ -38,20 +38,6 @@ webstack:
 
 content:
   categories:
-    - name: 交流地址
-      sites:
-        - name: 掘金
-          description: 开发者社区
-          url: https://juejin.cn/
-        - name: V2EX
-          description: v2ex
-          url: https://www.v2ex.com/
-        - name: Discord
-          description: Discord
-          url: https://discord.com/servers
-        - name: 炒饭社区
-          description: 炒饭社区论坛
-          url: https://choa.fun/all
     - name: Mac软件
       sites:
         - name: wallhaven壁纸
@@ -96,6 +82,49 @@ content:
         - name: 爱欧乐影院
           description: 爱欧乐影院
           url: https://www.iole.tv/
+    - name: 论坛
+      sites:
+        - name: 掘金
+          description: 开发者社区
+          url: https://juejin.cn/
+        - name: V2EX
+          description: v2ex
+          url: https://www.v2ex.com/
+        - name: Discord
+          description: Discord
+          url: https://discord.com/servers
+        - name: NGA
+          description: NGA
+          url: https://bbs.nga.cn/?rand=245
+        - name: 虫部落
+          description: 虫部落
+          url: https://www.chongbuluo.com/
+        - name: 炒饭社区
+          description: 炒饭社区论坛
+          url: https://choa.fun/all
+    - name: 常用推荐
+      sites:
+        - name: tinypng
+          description: Optimize your images with a perfect balance in quality and file size.
+          url: https://tinypng.com/
+        - name: 消除背景
+          description: 上传一张图片以消除背景
+          url: https://www.remove.bg/zh/upload
+        - name: 量化文档
+          description: 量化文档
+          url: https://akshare.akfamily.xyz/platform.html#id1
+        - name: musclewiki
+          description: 健身网站
+          url: https://musclewiki.com/
+        - name: 草料二维码
+          description: 草料二维码
+          url: https://cli.im/
+        - name: 加文字水印
+          description: 加文字水印
+          url: https://uutool.cn/img-watermark/
+        - name: 文档格式转换
+          description: 文档格式转换
+          url: https://convert.io/cn/archive-converter
     - name: 开发平台
       sites:
         - name: 微信公众平台
@@ -170,36 +199,6 @@ content:
         - name: VsCode
           description: VsCode
           url: https://code.visualstudio.com/
-    
-    - name: 常用推荐
-      sites:
-        - name: tinypng
-          description: Optimize your images with a perfect balance in quality and file size.
-          url: https://tinypng.com/
-        - name: PDF转换
-          description: PDF转WORD 以及更多免费的在线格式转换工具
-          url: https://www.alltoall.net/
-        - name: 消除背景
-          description: 上传一张图片以消除背景
-          url: https://www.remove.bg/zh/upload
-        - name: Api
-          description: 免费Api
-          url: http://txapi.cn/api
-        - name: 量化文档
-          description: 量化文档
-          url: https://akshare.akfamily.xyz/platform.html#id1
-        - name: musclewiki
-          description: 健身网站
-          url: https://musclewiki.com/
-        - name: 草料二维码
-          description: 草料二维码
-          url: https://cli.im/
-        - name: 加文字水印
-          description: 加文字水印
-          url: https://uutool.cn/img-watermark/
-        - name: 文档格式转换
-          description: 文档格式转换
-          url: https://convert.io/cn/archive-converter
     - name: 在线配色
       sites:
         - name: 中国色
